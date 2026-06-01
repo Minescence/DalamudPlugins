@@ -1,0 +1,21 @@
+[
+  {
+    "Author": "Minescence",
+    "Name": "CosmocreditTracker",
+    "InternalName": "CosmocreditTracker",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "A plugin to track your Cosmocredit earnings per hour and total session earnings.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Minescence/CosmocreditTracker",
+    "Tags": ["cosmocredit", "tracker", "utility"],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "LoadPriority": 0,
+    "Punchline": "Track your space cash!",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Minescence/DalamudPlugins/master/plugins/CosmocreditTracker/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Minescence/DalamudPlugins/master/plugins/CosmocreditTracker/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Minescence/DalamudPlugins/master/plugins/CosmocreditTracker/latest.zip"
+  }
+]
