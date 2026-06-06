@@ -3,7 +3,7 @@
     "Author": "Minescence",
     "Name": "CosmocreditTracker",
     "InternalName": "CosmocreditTracker",
-    "AssemblyVersion": "0.1.0.0",
+    "AssemblyVersion": "0.2.0.0",
     "Description": "A plugin to track your Cosmocredit earnings per hour and total session earnings.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Minescence/CosmocreditTracker",
